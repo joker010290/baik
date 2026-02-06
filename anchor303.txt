@@ -1,3 +1,15 @@
 <div style="display: none;">
-<p><a href="https://master-astrophysique.univ-lyon1.fr/index.php/contacts/">KM789</a></p>
+<p><a href="https://master-astrophysique.univ-lyon1.fr/index.php/conditions-dadmission/">INK789</a></p>
+<p><a href="https://master-astrophysique.univ-lyon1.fr/index.php/milieu-interstellaire/">GG999</a></p>
+<p><a href="https://master-astrophysique.univ-lyon1.fr/index.php/atelier-dastrophysique-observationnelle/">REJEKIBET</a></p>
+<p><a href="https://master-astrophysique.univ-lyon1.fr/index.php/en/astrophysical-instrumentation/">JKT8</a></p>
+<p><a href="https://master-astrophysique.univ-lyon1.fr/index.php/en/interstellar-medium/">JKT88</a></p>
+<p><a href="https://master-astrophysique.univ-lyon1.fr/index.php/m1-a-montpellier/">JKTJKT</a></p>
+<p><a href="https://master-astrophysique.univ-lyon1.fr/index.php/m1-a-lyon/">RPOK</a></p>
+<p><a href="https://master-astrophysique.univ-lyon1.fr/index.php/en/observational-cosmology/">RPVIP1</a></p>
+<p><a href="https://master-astrophysique.univ-lyon1.fr/index.php/en/research-internship/">RPVIP2</a></p>
+<p><a href="https://master-astrophysique.univ-lyon1.fr/index.php/en/contacts-2/">RPVIP3</a></p>
+<p><a href="https://master-astrophysique.univ-lyon1.fr/index.php/stage-de-recherche/">RPVIP4</a></p>
+<p><a href="https://master-astrophysique.univ-lyon1.fr/index.php/structure-et-evolution-stellaires/">RPVIP5</a></p>
+<p><a href="https://master-astrophysique.univ-lyon1.fr/index.php/en/m2-in-common/">WINIDN</a></p>
 </div>
