@@ -3,4 +3,5 @@
 <p><a href="https://envedu.unitbv.ro/en_US/tm2-environment-quality-unitbv-responsible-partner/">https://envedu.unitbv.ro/en_US/tm2-environment-quality-unitbv-responsible-partner/</a></p>
 <p><a href="https://bluemuse.univ-lyon1.fr/index.php/bluemuse-science-workshop/">https://bluemuse.univ-lyon1.fr/index.php/bluemuse-science-workshop/</a></p>
 <p><a href="https://sphinx.univ-lyon1.fr/animations/">https://sphinx.univ-lyon1.fr/animations/</a></p>
+<p><a href="https://sphinx.univ-lyon1.fr/news/">https://sphinx.univ-lyon1.fr/news/</a></p>
 </div>
