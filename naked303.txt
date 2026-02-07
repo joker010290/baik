@@ -8,4 +8,5 @@
 <p><a href="https://bluemuse.univ-lyon1.fr/index.php/characteristics-new/">https://bluemuse.univ-lyon1.fr/index.php/characteristics-new/</a></p>
 <p><a href="https://envedu.unitbv.ro/en_US/policy-recommendations/">https://envedu.unitbv.ro/en_US/policy-recommendations/</a></p>
 <p><a href="https://envedu.unitbv.ro/en_US/tm2-environment-quality-unitbv-responsible-partner/">https://envedu.unitbv.ro/en_US/tm2-environment-quality-unitbv-responsible-partner/</a></p>
+<p><a href="https://envedu.unitbv.ro/en_US/intellectual-outputs/">https://envedu.unitbv.ro/en_US/intellectual-outputs/</a></p>
 </div>
