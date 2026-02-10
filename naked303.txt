@@ -1,4 +1,5 @@
 <div style="display: none;">
+<p><a href="https://bipa.oia.unmul.ac.id/gallery/">https://bipa.oia.unmul.ac.id/gallery/</a></p>
 <p><a href="https://master-astrophysique.univ-lyon1.fr/index.php/contacts/">https://master-astrophysique.univ-lyon1.fr/index.php/contacts/</a></p>
 <p><a href="https://envedu.unitbv.ro/en_US/tm2-environment-quality-unitbv-responsible-partner/">https://envedu.unitbv.ro/en_US/tm2-environment-quality-unitbv-responsible-partner/</a></p>
 <p><a href="https://bluemuse.univ-lyon1.fr/index.php/bluemuse-science-workshop/">https://bluemuse.univ-lyon1.fr/index.php/bluemuse-science-workshop/</a></p>
