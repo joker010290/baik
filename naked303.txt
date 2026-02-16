@@ -14,4 +14,6 @@
 <p><a href="https://www.performancetruck.com/locations/baytown/">https://www.performancetruck.com/locations/baytown/</a></p>
 <p><a href="https://envedu.unitbv.ro/en_US/multiplier-events/">https://envedu.unitbv.ro/en_US/multiplier-events/</a></p>
 <p><a href="https://master-astrophysique.univ-lyon1.fr/index.php/en/">https://master-astrophysique.univ-lyon1.fr/index.php/en/</a></p>
+<p><a href="https://bluemuse.univ-lyon1.fr/index.php/swg2-nearby-galaxies/">https://bluemuse.univ-lyon1.fr/index.php/swg2-nearby-galaxies/</a></p>
+<p><a href="https://bluemuse.univ-lyon1.fr/index.php/contact-consortium/">https://bluemuse.univ-lyon1.fr/index.php/contact-consortium/</a></p>
 </div>
